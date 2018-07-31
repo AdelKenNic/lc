@@ -1,0 +1,1817 @@
+[
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533008778327,
+            "changeTime": 1533008778327,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533008778327,
+            "changeTime": 1533008778327,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533011169434,
+            "changeTime": 1533011169434,
+            "contentHash": "e38f3c3f4f77e987fc3f816f74899912930aca03",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047603,
+            "changeTime": 1533010047603,
+            "contentHash": "29abdd98b99401277695aaabfa61ee665e52274f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\applications\\Dreamhouse_Classic.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\applications\\Dreamhouse_Classic.app-meta.xml",
+            "isDirectory": false,
+            "size": 472,
+            "modifiedTime": 1533010047596,
+            "changeTime": 1533010047596,
+            "contentHash": "e80584f20c45ca7de70bc8de88766af507d37468",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\applications\\Dreamhouse_Lightning.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\applications\\Dreamhouse_Lightning.app-meta.xml",
+            "isDirectory": false,
+            "size": 778,
+            "modifiedTime": 1533010047604,
+            "changeTime": 1533010047604,
+            "contentHash": "8b30ace89cf99781eddf61b9bfbe5289a398510d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533016391661,
+            "changeTime": 1533016391661,
+            "contentHash": "504bf229137a43b43a03c643df2e7a708fa9e58c"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010193581,
+            "changeTime": 1533010193581,
+            "contentHash": "f7d1a6214b407b0601d37ea3df189dd4265b5c4c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.auradoc",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1533010193578,
+            "changeTime": 1533010193578,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1533014016576,
+            "changeTime": 1533014016576,
+            "contentHash": "149d52df1e50cfa0e7e1e5385c09ce47169eb19c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1533010193544,
+            "changeTime": 1533010193544,
+            "contentHash": "7500f1fbd039414f228f4b4e76c10a285428bc68",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.css",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1533010193561,
+            "changeTime": 1533010193561,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.design",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1533010193585,
+            "changeTime": 1533010193585,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.svg",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1533010193572,
+            "changeTime": 1533010193572,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldController.js",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldController.js",
+            "isDirectory": false,
+            "size": 176,
+            "modifiedTime": 1533014205727,
+            "changeTime": 1533014205727,
+            "contentHash": "fac7ff53fd621d57514ebfddff74a5a55d55b243",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldHelper.js",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1533010193556,
+            "changeTime": 1533010193556,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1533010193565,
+            "changeTime": 1533010193565,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533014325560,
+            "changeTime": 1533014325560,
+            "contentHash": "570dab253981fb676f68f53da46022e01b4b8d12",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseProspects.cls",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseProspects.cls",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1533010047623,
+            "changeTime": 1533010047623,
+            "contentHash": "a6748df9d298195f3ffaada83c42df4034bb44f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseProspects.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseProspects.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1533010047620,
+            "changeTime": 1533010047620,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1533010047614,
+            "changeTime": 1533010047614,
+            "contentHash": "32cdc2fec75add92d1636f706d730d3c7d6e81ab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1533010047610,
+            "changeTime": 1533010047610,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseTests.cls",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseTests.cls",
+            "isDirectory": false,
+            "size": 1701,
+            "modifiedTime": 1533010047632,
+            "changeTime": 1533010047632,
+            "contentHash": "f3161e0c6c29108c2f5cd323d3a6be7a779a87d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseTests.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\DreamhouseTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1533010047628,
+            "changeTime": 1533010047628,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\GetPropertiesApexController.cls",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\GetPropertiesApexController.cls",
+            "isDirectory": false,
+            "size": 691,
+            "modifiedTime": 1533010047641,
+            "changeTime": 1533010047641,
+            "contentHash": "976d97ab09d05fa0d7b9a9804bfebe1178a06aa1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\GetPropertiesApexController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\GetPropertiesApexController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1533010047637,
+            "changeTime": 1533010047637,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047648,
+            "changeTime": 1533010047648,
+            "contentHash": "a42ad9ab1a440c98cdd899c77ed5b25e97a5ca19",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
+            "isDirectory": false,
+            "size": 27198,
+            "modifiedTime": 1533010047650,
+            "changeTime": 1533010047650,
+            "contentHash": "b5445ec8b44ac56df72d35b1869849e631240cfc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 541,
+            "modifiedTime": 1533010047647,
+            "changeTime": 1533010047647,
+            "contentHash": "f0c95fec8cf410d47310bedb97bced32f3ae9ae0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047682,
+            "changeTime": 1533010047682,
+            "contentHash": "cf90697356a1183b661b57ca09a2b927419f197d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3078,
+            "modifiedTime": 1533010047661,
+            "changeTime": 1533010047661,
+            "contentHash": "98addf810ede608166685c06ba0637664af8a1b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\Favorite__c-Favorite Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\Favorite__c-Favorite Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1947,
+            "modifiedTime": 1533010047667,
+            "changeTime": 1533010047667,
+            "contentHash": "9c9027a587d62cc77ef8c245abaadc3c85d49f9c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\LeadAssociation__c-LeadAssociation Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\LeadAssociation__c-LeadAssociation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2152,
+            "modifiedTime": 1533010047675,
+            "changeTime": 1533010047675,
+            "contentHash": "321b86f5185a0aac4eb37294d9b737b003754917",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5673,
+            "modifiedTime": 1533010047684,
+            "changeTime": 1533010047684,
+            "contentHash": "e9b991ea5aae2e5aea7580196bce0e3221e2e1ba",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047950,
+            "changeTime": 1533010047950,
+            "contentHash": "ae2cdd3a9992322a8cb00dbdb75a340cb4e4adec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047783,
+            "changeTime": 1533010047783,
+            "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2080,
+            "modifiedTime": 1533010047720,
+            "changeTime": 1533010047720,
+            "contentHash": "f83749a6e16a4f3cb834d7b455fffb1d69537654",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047721,
+            "changeTime": 1533010047721,
+            "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1533010047727,
+            "changeTime": 1533010047727,
+            "contentHash": "6e5e20522933437a420f98f37bd3cd6114879e48",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047772,
+            "changeTime": 1533010047772,
+            "contentHash": "2fb46ad3c33bf653b5eb69e67dbce12b7e2f6a0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1533010047733,
+            "changeTime": 1533010047733,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1533010047742,
+            "changeTime": 1533010047742,
+            "contentHash": "312ccfca2f9149ef19f3d3e6ba62d0b8602a0681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1533010047751,
+            "changeTime": 1533010047751,
+            "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1533010047762,
+            "changeTime": 1533010047762,
+            "contentHash": "482283b0ac794fa83d28a8b6d061f8f46a02a0c7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1533010047770,
+            "changeTime": 1533010047770,
+            "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1533010047782,
+            "changeTime": 1533010047782,
+            "contentHash": "9fa27aa9d1ad16bbcd462b1d0116e077ec8c2b88",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047794,
+            "changeTime": 1533010047794,
+            "contentHash": "915f0742a4220017a64d6be3c304efdec607b791",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1533010047793,
+            "changeTime": 1533010047793,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All1.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1533010047800,
+            "changeTime": 1533010047800,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047857,
+            "changeTime": 1533010047857,
+            "contentHash": "81628593539a5b50866c9e56d1e2dc805cd8dc23",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\Favorite__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\Favorite__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2136,
+            "modifiedTime": 1533010047839,
+            "changeTime": 1533010047839,
+            "contentHash": "1d64a792111b0380989e0a1a8dfa7284e99e08f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047850,
+            "changeTime": 1533010047850,
+            "contentHash": "7e94e131bb344e545305ce2b0a135eff01891ccc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\fields\\Property__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\fields\\Property__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 508,
+            "modifiedTime": 1533010047848,
+            "changeTime": 1533010047848,
+            "contentHash": "8c37c0295e9b40847fc4f8bc2882e05b753c693d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\fields\\User__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\fields\\User__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1533010047856,
+            "changeTime": 1533010047856,
+            "contentHash": "68acb67d61a43643286c9533dd5acb3fd50c894f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047858,
+            "changeTime": 1533010047858,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Favorite__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1533010047864,
+            "changeTime": 1533010047864,
+            "contentHash": "2d068a0118daf1207810fa7636cf16f9a12104ac",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047890,
+            "changeTime": 1533010047890,
+            "contentHash": "764440b92818f0a501ea369eb303f54169a96ee0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047899,
+            "changeTime": 1533010047899,
+            "contentHash": "4b50d53774a46cb364d3bca3df0621f14f4b6da4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\fields\\Lead_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\fields\\Lead_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 501,
+            "modifiedTime": 1533010047898,
+            "changeTime": 1533010047898,
+            "contentHash": "d3970e4d004ed4e50b0a23fdba9bf4cb3ede4eb6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\fields\\Property_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\fields\\Property_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1533010047906,
+            "changeTime": 1533010047906,
+            "contentHash": "ab9d454ad1625b9108b9716427fb251d33bc620e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\LeadAssociation__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\LeadAssociation__c\\LeadAssociation__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2163,
+            "modifiedTime": 1533010047889,
+            "changeTime": 1533010047889,
+            "contentHash": "4eef196e5dd8968c5d7f1bf1c0b0baf628c4b72d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010048130,
+            "changeTime": 1533010048130,
+            "contentHash": "290b3cf58b90838e68e985055e7d1a0d07ec710e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010047959,
+            "changeTime": 1533010047959,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1533010047965,
+            "changeTime": 1533010047965,
+            "contentHash": "921b463e5d8bedac3738c93e3bfc6c8c7a86e412",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010048123,
+            "changeTime": 1533010048123,
+            "contentHash": "ea8e69107d15535998dd2ff7a5b20b5a7794d2eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1533010047973,
+            "changeTime": 1533010047973,
+            "contentHash": "1a226f009dd63c156d3971f8c3763a7070e754cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1533010047979,
+            "changeTime": 1533010047979,
+            "contentHash": "cf5658464be2f9fde5fa17e212379ccc64ab8c62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1533010047986,
+            "changeTime": 1533010047986,
+            "contentHash": "15da5bc8740561ec4af7c847db5dee799210abf8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1533010047993,
+            "changeTime": 1533010047993,
+            "contentHash": "42a87a704a89133b81fa0d30c2ee7ce853678818",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 590,
+            "modifiedTime": 1533010048001,
+            "changeTime": 1533010048001,
+            "contentHash": "1adfb82fcd63bd84e97886f1f40eab71dd23da7b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1533010048008,
+            "changeTime": 1533010048008,
+            "contentHash": "9252e41ea4860528be191fc3940f202e3aa4da71",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1533010048015,
+            "changeTime": 1533010048015,
+            "contentHash": "50fc12cf023ffb086c47e4621b16bf08d4b1b0d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1533010048022,
+            "changeTime": 1533010048022,
+            "contentHash": "37cdcf1162540f4cbdc414d9807409d71c4f4ec9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1533010048030,
+            "changeTime": 1533010048030,
+            "contentHash": "654ce3fa571dd55331b8601e927c6ee610993264",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1533010048037,
+            "changeTime": 1533010048037,
+            "contentHash": "4ddbf7bf3ad4964ecf48265f567ae78f92778728",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 483,
+            "modifiedTime": 1533010048044,
+            "changeTime": 1533010048044,
+            "contentHash": "412bfb6e08fb55d374f40c7dc28a7cf2c3aabb46",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1533010048052,
+            "changeTime": 1533010048052,
+            "contentHash": "d6397f19e4fab267d61fed6e1a194a3dbe90681e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1533010048059,
+            "changeTime": 1533010048059,
+            "contentHash": "d067b497c7d1660d752e69f88b49ce2c79af5537",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1533010048066,
+            "changeTime": 1533010048066,
+            "contentHash": "55572fea8d72d76790b99420a2252132a601c722",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 561,
+            "modifiedTime": 1533010048074,
+            "changeTime": 1533010048074,
+            "contentHash": "66bc9b367bd030156dbc48ede4b4d98e33bf61f5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1533010048081,
+            "changeTime": 1533010048081,
+            "contentHash": "0946570c4ff99b95a14de2fa788428bead211499",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1196,
+            "modifiedTime": 1533010048091,
+            "changeTime": 1533010048091,
+            "contentHash": "250020d797ed95efac7f9d6bb31f2726b114cafc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1533010048099,
+            "changeTime": 1533010048099,
+            "contentHash": "f16ce261391485bd043c9363860f4b9c5a2334ad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 563,
+            "modifiedTime": 1533010048106,
+            "changeTime": 1533010048106,
+            "contentHash": "0ad52af63e43de0322dac7c3299c011a75561cfd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1533010048114,
+            "changeTime": 1533010048114,
+            "contentHash": "e5bb343d5d3dc341a33563bfef587324ffb541f7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1533010048122,
+            "changeTime": 1533010048122,
+            "contentHash": "b5160ea3018d0b196a6260135fee211b6700431c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1533010048129,
+            "changeTime": 1533010048129,
+            "contentHash": "cdabe1dd18e0352ec9bc40bf10a762bac1b1f805",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010048148,
+            "changeTime": 1533010048148,
+            "contentHash": "dd8467e453efb4c52ec25382d1f7155f2c25dbc9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1533010048136,
+            "changeTime": 1533010048136,
+            "contentHash": "2880d5b0d580ff7b7df8b437c163aad73c093f54",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\All1.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\All1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1533010048139,
+            "changeTime": 1533010048139,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\New_Listings.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\New_Listings.listView-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1533010048146,
+            "changeTime": 1533010048146,
+            "contentHash": "4b3bb09780c05bc82d66a17c6083be9a0d2e6b3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\Top_Listings.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\listViews\\Top_Listings.listView-meta.xml",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1533010048154,
+            "changeTime": 1533010048154,
+            "contentHash": "b70cd788a94afb8274601142490c033d9b309170",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2429,
+            "modifiedTime": 1533011169428,
+            "changeTime": 1533011169428,
+            "contentHash": "b2b6a40118cc17329fac244ffe2b77d42252ec37",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010048257,
+            "changeTime": 1533010048257,
+            "contentHash": "b78e18bafdb9589dd4c72fe894656b568b908405",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DataImport.page",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DataImport.page",
+            "isDirectory": false,
+            "size": 21088,
+            "modifiedTime": 1533010048233,
+            "changeTime": 1533010048233,
+            "contentHash": "17204c103fe7b8230923cc21d7efc1d3280fc2c8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DataImport.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DataImport.page-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1533010048190,
+            "changeTime": 1533010048190,
+            "contentHash": "375c5fc354239ea48b40b7d30a9e99ae9ef04ef7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DreamhouseLeads.page",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DreamhouseLeads.page",
+            "isDirectory": false,
+            "size": 1293,
+            "modifiedTime": 1533010048250,
+            "changeTime": 1533010048250,
+            "contentHash": "37a1c47cb3bd0adba5884ae2308131ec141c92ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DreamhouseLeads.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\DreamhouseLeads.page-meta.xml",
+            "isDirectory": false,
+            "size": 291,
+            "modifiedTime": 1533010048240,
+            "changeTime": 1533010048240,
+            "contentHash": "e7e5677e678731025b0066f29f88be0985deae6a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\Similar_Properties.page",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\Similar_Properties.page",
+            "isDirectory": false,
+            "size": 558,
+            "modifiedTime": 1533010048260,
+            "changeTime": 1533010048260,
+            "contentHash": "01ca6ed83c5b1c2c71aaa1d0f7949a1195033496",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\Similar_Properties.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\pages\\Similar_Properties.page-meta.xml",
+            "isDirectory": false,
+            "size": 294,
+            "modifiedTime": 1533010048256,
+            "changeTime": 1533010048256,
+            "contentHash": "e82aa4f19bcbae68678046fdc726b077495ad161",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010048278,
+            "changeTime": 1533010048278,
+            "contentHash": "b73a0c6e6be1100b0d8137973d23457a703efd33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1533010048265,
+            "changeTime": 1533010048265,
+            "contentHash": "0b992cea7f900c88e6ef02748f12e09e52f8e21c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Data_Import.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Data_Import.tab-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1533010048270,
+            "changeTime": 1533010048270,
+            "contentHash": "2e0a73f77dd861c4fea74093113ad8a415d2bcb7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Leads.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Leads.tab-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1533010048275,
+            "changeTime": 1533010048275,
+            "contentHash": "6939c35aef712d52d61d389e534a8c51acd412ae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1533010048280,
+            "changeTime": 1533010048280,
+            "contentHash": "50be02508529f3f1d43482ba9d9dfcb3d75b5b7f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533010085293,
+            "changeTime": 1533010085293,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 5242,
+            "modifiedTime": 1533011169438,
+            "changeTime": 1533011169438,
+            "contentHash": "1edc16d0930368f3161a991f502e6c05f6852471",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533011169436,
+            "changeTime": 1533011169436,
+            "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\MyPropertyController.cls",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\MyPropertyController.cls",
+            "isDirectory": false,
+            "size": 1002,
+            "modifiedTime": 1533015176989,
+            "changeTime": 1533015176989,
+            "contentHash": "1bf80b6797bbead57b133421b84ce0bcb4653b05",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\MyPropertyController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\classes\\MyPropertyController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1533014325563,
+            "changeTime": 1533014325563,
+            "contentHash": "c4208ffe1c5cd6508cfa6a919596b3c223d2388f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties\\SimilarProperties.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties\\SimilarProperties.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1533015576890,
+            "changeTime": 1533015576890,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties\\SimilarProperties.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties\\SimilarProperties.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 900,
+            "modifiedTime": 1533016821185,
+            "changeTime": 1533016821185,
+            "contentHash": "b0ac3b8bceb369d259739fc3ca3be7b82bf09726"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533016339697,
+            "changeTime": 1533016339697,
+            "contentHash": "1678e643651d1f7d349b7cb9c29b862daf8f07b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties\\SimilarPropertiesController.js",
+        {
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperties\\SimilarPropertiesController.js",
+            "isDirectory": false,
+            "size": 474,
+            "modifiedTime": 1533016339699,
+            "changeTime": 1533016339699,
+            "contentHash": "31b1cdc02e4d9da0279b0d9c492f62fa02d76c40",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533016391684,
+            "changeTime": 1533016391684,
+            "contentHash": "1e08d8d05d90f5588682bd0b2ad451badc060226"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1533016391683,
+            "changeTime": 1533016391683,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 116,
+            "modifiedTime": 1533016451670,
+            "changeTime": 1533016451670,
+            "contentHash": "bde62d82c8faa97b8582bf3f0bcd320ed4dec782"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1533016391669,
+            "changeTime": 1533016391669,
+            "contentHash": "9749491b2caca97a5b6932cc4b94282fb00553c5"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1533016391677,
+            "changeTime": 1533016391677,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1533016391685,
+            "changeTime": 1533016391685,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarProperty.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1533016391681,
+            "changeTime": 1533016391681,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarPropertyController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarPropertyController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1533016391673,
+            "changeTime": 1533016391673,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarPropertyHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarPropertyHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1533016391675,
+            "changeTime": 1533016391675,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarPropertyRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\kenne\\lightningComponents\\force-app\\main\\default\\aura\\SimilarProperty\\SimilarPropertyRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1533016391679,
+            "changeTime": 1533016391679,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
