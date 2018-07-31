@@ -1,0 +1,4 @@
+<aura:component>
+    <aura:attribute name="property" type="property__c"/>
+    {!v.property.Name}
+</aura:component>	
